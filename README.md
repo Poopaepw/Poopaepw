@@ -3,7 +3,7 @@
 Currently, I am **"cooking"** 🍳 some exciting full-stack projects in my private repositories. They are not ready for the public eye just yet, but I'm working hard to polish them. **Stay tuned!** 🚀
 
 - 🌱 I’m currently learning: **Advanced ASP.NET Core, Azure Cloud, and System Architecture**
-- 🔭 I’m currently working on: **Some maybe useful Project**
+- 🔭 I’m currently working on: **Some useful Project**
 - 💬 Looking for my **travel dreams! 🌍**
 
 ---
@@ -11,6 +11,10 @@ Currently, I am **"cooking"** 🍳 some exciting full-stack projects in my priva
 ### 🚧 Works in Progress (Coming Soon)
 
 Although my best work is currently under development 🏗️, here is a sneak peek of what I'm building:
+
+#### 🎓 **NEXT-STEP 2.0** *(In Development)*
+> A comprehensive E-Learning platform built with **ASP.NET Core MVC** and **SQL Server**.
+> Focusing on backend optimization and user-centric design.
 
 ---
 
