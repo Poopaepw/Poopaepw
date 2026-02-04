@@ -1,32 +1,16 @@
 # Hi there, I'm Paween! 👋
 
-### 👨‍💻 Aspiring Full Stack Developer | KMUTT Student
-I am a third-year Applied Computer Science student on a journey to become a professional developer. I am passionate about **Web Technologies, Database Design, and Solving Real-world Problems.**
-
 Currently, I am **"cooking"** 🍳 some exciting full-stack projects in my private repositories. They are not ready for the public eye just yet, but I'm working hard to polish them. **Stay tuned!** 🚀
 
 - 🌱 I’m currently learning: **Advanced ASP.NET Core, Azure Cloud, and System Architecture**
-- 🔭 I’m currently working on: **A Full-Scale E-Learning Platform (Next-Step 2.0)**
-- 💬 Ask me about: **C#, SQL Server, and my travel dreams! 🌍**
+- 🔭 I’m currently working on: **Some maybe useful Project**
+- 💬 Looking for my **travel dreams! 🌍**
 
 ---
 
 ### 🚧 Works in Progress (Coming Soon)
 
 Although my best work is currently under development 🏗️, here is a sneak peek of what I'm building:
-
-#### 🎓 **NEXT-STEP 2.0 (E-Learning Platform)**
-> *Status: In Development (Private Repo)* 🔒
->
-> A comprehensive Learning Management System designed to help instructors and students connect seamlessly.
-> - **Tech Stack:** ASP.NET Core MVC, C#, SQL Server, Azure, Bootstrap
-> - **Focus:** Backend Optimization & User-Centric Design
-
-#### 💰 **Billing Data Management System**
-> *Status: In Development (Private Repo)* 🔒
->
-> A database management project focusing on data integrity and normalization (3NF) for financial records.
-> - **Tech Stack:** SQL Server, SSMS, T-SQL
 
 ---
 
