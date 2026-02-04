@@ -1,10 +1,10 @@
-# Hi there, I'm Paween! 👋
+# Hi, I'm Poopae! 👋
 
 Currently, I am **"cooking"** 🍳 some exciting full-stack projects in my private repositories. They are not ready for the public eye just yet, but I'm working hard to polish them. **Stay tuned!** 🚀
 
 - 🌱 I’m currently learning: **Advanced ASP.NET Core, Azure Cloud, and System Architecture**
 - 🔭 I’m currently working on: **Some useful Project**
-- 💬 Looking for my **travel dreams! 🌍**
+- 💬 Chasing my **travel dreams! 🌍**
 
 ---
 
