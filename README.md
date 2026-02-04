@@ -46,15 +46,3 @@ Although my best work is currently under development 🏗️, here is a sneak pe
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-
-### 📬 Let's Connect!
-I am new to the open-source world and eager to learn. Feel free to reach out!
-
-<p align="left">
-  <a href="mailto:paween.dit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://kmutt.me/paween-port">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
