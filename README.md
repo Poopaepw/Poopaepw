@@ -12,7 +12,7 @@ Currently, I am **"cooking"** 🍳 some exciting full-stack projects in my priva
 
 Although my best work is currently under development 🏗️, here is a sneak peek of what I'm building:
 
-#### 🎓 **NEXT-STEP 2.0** *(In Development)*
+#### 🎓 **NEXT-STEP 2.0** *(Can't Publish)*
 > A comprehensive E-Learning platform built with **ASP.NET Core MVC** and **SQL Server**.
 > Focusing on backend optimization and user-centric design.
 
